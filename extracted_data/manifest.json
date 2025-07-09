@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Striver SDE Scraper",
+  "version": "1.0",
+  "description": "Scrape Striver's SDE Sheet from takeuforward.org",
+  "permissions": ["scripting", "activeTab"],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
